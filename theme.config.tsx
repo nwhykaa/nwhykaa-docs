@@ -25,4 +25,13 @@ export default {
   feedback: {
     content: null
   }
+
+  export default {
+  logo: <span>Ykaa Scripts</span>,
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – Ykaa Scripts'
+    }
+  },
+}
 }
