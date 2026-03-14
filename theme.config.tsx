@@ -1,5 +1,5 @@
 export default {
-  logo: <span style={{ fontWeight: 800, letterSpacing: '-0.5px' }}>XKAA SCRIPTS</span>,
+  logo: <span style={{ fontWeight: 800, letterSpacing: '-0.5px' }}>YKAA SCRIPTS</span>,
   project: {
     link: 'https://github.com/nwhykaa',
   },
