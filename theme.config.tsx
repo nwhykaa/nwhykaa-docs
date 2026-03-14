@@ -1,5 +1,5 @@
 export default {
-  logo: <strong style={{ fontSize: '1.25rem' }}>NW Scripts</strong>,
+  logo: <strong style={{ fontSize: '1.25rem' }}>YKAA SCRIPTS</strong>,
   project: {
     link: 'https://github.com/nwhykaa',
   },
