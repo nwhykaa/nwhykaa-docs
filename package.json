@@ -2,16 +2,10 @@
   "name": "nwhykaa-docs",
   "version": "1.0.0",
   "private": true,
-  "engines": {
-    "node": ">=18.0.0",
-    "pnpm": ">=8"
-  },
-  "packageManager": "pnpm@8.15.4",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "next": "latest",
@@ -23,5 +17,9 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "typescript": "latest"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8"
   }
 }
