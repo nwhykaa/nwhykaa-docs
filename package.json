@@ -1,16 +1,17 @@
 {
-  "name": "nwhykaa-docs",
-  "private": true,
+  "name": "nwhykaa",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8"
+  },
+  "packageManager": "pnpm@8.15.4",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
-    "next": "14.0.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "nextra": "2.13.0",
-    "nextra-theme-docs": "2.13.0"
+    ...
   }
 }
