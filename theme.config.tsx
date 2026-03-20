@@ -1,18 +1,10 @@
-import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
-
-const config: DocsThemeConfig = {
-  logo: <span style={{ fontWeight: 800 }}>Ykaa Scripts</span>,
+export default {
+  logo: <span>Ykaa Scripts</span>,
   project: {
-    link: 'https://github.com/ykaa', 
+    link: 'https://github.com/nwhykaa/nwhykaa-docs'
   },
-  docsRepositoryBase: 'https://github.com/ykaa/docs',
+  docsRepositoryBase: 'https://github.com/nwhykaa/nwhykaa-docs',
   footer: {
-    text: 'Ykaa Documentation © 2024',
-  },
-  nextThemes: {
-    defaultTheme: 'dark',
+    text: 'Ykaa Scripts Docs'
   }
 }
-
-export default config
